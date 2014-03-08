@@ -1,18 +1,10 @@
  /* Don't let the header overlap the main content */
-        .starter-template {
-            margin-top:70px;
-        }
-
-        body {
-
-background-image:url('http://i.imgur.com/DwIyjLk.png');
-background-repeat:no-repeat;
-background-position: 50% 200%;
-
- 
+.starter-template {
+	margin-top:70px;
 }
 
- .jumbotron {
-      
-  opacity:0.9;
-  }
+body {
+	background-image:url('http://i.imgur.com/DwIyjLk.png');
+	background-repeat:no-repeat;
+	background-position: 50% 200%;
+}
