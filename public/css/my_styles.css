@@ -5,11 +5,11 @@
 
 body {
 	background-image:url('http://i.imgur.com/DwIyjLk.png');
-	background-size: 900px;
+	background-size: 600px;
 	background-repeat:no-repeat;
-	background-position: 50% 1000%;
+	background-position: 98% 150%;
 }
 
 .jumbotron{
-	opacity: 0.95;
+	opacity: 0.925;
 }
