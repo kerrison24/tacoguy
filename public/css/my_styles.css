@@ -7,7 +7,7 @@ body {
 	background-image:url('http://i.imgur.com/DwIyjLk.png');
 	background-size: 600px;
 	background-repeat:no-repeat;
-	background-position: 98% 170%;
+	background-position: 98% 150%;
 }
 
 .jumbotron{
@@ -714,3 +714,13 @@ body {
 .btn-youtube.active {
   background-color: #3e0309 \9;
 }
+
+.btn-xlarge {
+    padding: 20px 60px;
+    font-size: 25px;
+    line-height: normal;
+    background-color: #03C03C;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+    }
